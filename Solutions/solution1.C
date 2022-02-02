@@ -11,7 +11,7 @@ void main()
 	       //	printf("\n %d",a);
 		a=a+1;
 		sum=sum+a;
-		printf("\n sum of1 to 5 number is %d ",sum);
+		//printf("\n sum of1 to 5 number is %d ",sum);
 	}
 	getch();
 }
